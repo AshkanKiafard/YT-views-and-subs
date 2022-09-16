@@ -51,5 +51,5 @@ for i in range(len(channels)):
 plt.tight_layout()
 plt.xlim(0, 6100)
 plt.grid(True)
-plt.ylim(6_000_000, 115_000_000)
+plt.ylim(0, 115_000_000)
 plt.show()
